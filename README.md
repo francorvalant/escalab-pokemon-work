@@ -7,3 +7,16 @@ Desarrollo en Kotlin para registro de Clientes con sus respectivos cortes depend
 de cada uno de ellos.
 
 dependiendo de los que se haga, se realizara un presupuesto e historial de ganancias del Dia.
+
+
+
+**************************************************************************************************
+
+## Nombre: BarberMost
+
+Datos Generales:
+- A quien va destinado esta app
+
+MockUps:
+- diseño de la app con FIGMA
+
