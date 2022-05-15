@@ -31,3 +31,7 @@ Las funciones son las tareas que va a llevar a cabo el navegador. Existen 2 tipo
 
 ![2022-05-12 (11)](https://user-images.githubusercontent.com/71857156/168196610-84e8671a-0ed7-43fa-b042-8f809bcc05a1.png)
 
+
+
+
+V2 jS
